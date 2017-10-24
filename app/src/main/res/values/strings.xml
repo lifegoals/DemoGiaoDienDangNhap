@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoGiaoDienDangNhap</string>
+    <string name="itclass_vn">Khoá học trực tuyến itclass.vn</string>
+    <string name="OR">or</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="reg">Register</string>
+    <string name="login">Login</string>
+    <string name="forgot">I\'ve forgotten my password?</string>
+    <string name="sign">Sign in with</string>
+</resources>
